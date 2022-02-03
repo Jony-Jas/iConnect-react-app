@@ -1,5 +1,5 @@
 # iConnect React App 
-### App Demo: 
+### App Demo: https://confident-shaw-eb4bce.netlify.app/
 ## 🛠️ Dependancies and Packages used:
 * [Tailwindcss](https://tailwindcss.com/)
 * [React Collapsible](https://www.npmjs.com/package/react-collapsible)
